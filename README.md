@@ -30,11 +30,11 @@ thinking how to work into finishing the whole project.
 ## What to do next?
 - Make it responsive for mobile devices.
 - make it more dry code.
-- maybe add some git pictures.
+- maybe add some gif pictures.
 
 ## Special Thanks
 - General Assembly.
 - MISK Foundation.
-- Google Fonts :heart_eyes:
+- Google Fonts. :heart_eyes:
 
 
