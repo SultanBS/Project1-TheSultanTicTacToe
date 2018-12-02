@@ -364,9 +364,10 @@ $(document).ready(function () {
                         secondPlayerScore.innerHTML = players.p2.score;
                         statusNow.innerHTML = `${players.p2.name()} is the Winner, beat'm quick ${players.p2.name()}`;
                     }
+                     $allDivs.off('click');
                     return alertFourByFour(i, firstIndex);
                 } else if (currentTrun == 25) {
-
+                     $allDivs.off('click');
                     return alert(`It\'s a draw .. ${isfull} and a draw, what a shame :(`);
                 }
             }
