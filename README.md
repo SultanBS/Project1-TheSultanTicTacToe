@@ -18,7 +18,7 @@ This is the first poroject for WDI course submitted December 1st, 2018. The proj
   - Hard is the new mode which called The Sultan TicTacToe 5X5 length and the player needs to mark 3 places in a row to win the game.
   
 ## Try It 
-[Click here and have fun!!](https://sultanbs.github.io/TheSultanTicTacToe/game/ticTacToe.html)
+[Click here and have fun!!](https://sultanbs.github.io/TheSultanTicTacToe/game/index.html)
 
 
 ## Aprouch Taken
